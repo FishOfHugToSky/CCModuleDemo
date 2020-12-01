@@ -1,0 +1,6 @@
+framework module YCCFruitTool {
+  umbrella header "YCCFruitTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

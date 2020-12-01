@@ -1,0 +1,16 @@
+PODS:
+  - YCCFruitTool (0.1.0)
+
+DEPENDENCIES:
+  - YCCFruitTool (from `Lib/YCCFruitTool`)
+
+EXTERNAL SOURCES:
+  YCCFruitTool:
+    :path: Lib/YCCFruitTool
+
+SPEC CHECKSUMS:
+  YCCFruitTool: 60a8476d66276da97ae4eb84aa3655277ba7340d
+
+PODFILE CHECKSUM: 53280ad6d4f8e2b776dd101a7109a0203f5a61c6
+
+COCOAPODS: 1.9.1

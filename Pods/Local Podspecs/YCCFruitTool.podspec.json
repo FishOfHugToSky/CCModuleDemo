@@ -1,0 +1,22 @@
+{
+  "name": "YCCFruitTool",
+  "version": "0.1.0",
+  "summary": "A short description of YCCFruitTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuchangcheng/YCCFruitTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuchangcheng": "419821237@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yuchangcheng/YCCFruitTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YCCFruitTool/Classes/**/*"
+}
